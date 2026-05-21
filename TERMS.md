@@ -113,6 +113,8 @@ By uploading, committing, or submitting any content, you acknowledge that:
 
 > You have read, understood, and agreed to these Submission Terms in full.
 
+**This includes the right to integrate submissions into scoring, ranking, reward distribution, and platform mechanics, which may be updated or changed at any time.**
+
 ---
 
 --- End of Terms ---
